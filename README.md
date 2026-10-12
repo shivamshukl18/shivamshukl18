@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shivam+Shukla+%F0%9F%91%8B;AIML+Student+%7C+ML+Enthusiast;Turning+data+into+useful+ideas" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I%27m+Shivam+Shukla+%F0%9F%91%8B;B.Tech+%7C+AI+%26+Machine+Learning;Building+practical+ML+projects;Always+learning%2C+always+building" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://bengalurupriceprediction.streamlit.app/">
-    <img src="https://img.shields.io/badge/Explore%20My%20Project-Bengaluru%20House%20Price%20Prediction-38BDF8?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live project"/>
+  <a href="https://github.com/shivamshukl18">
+    <img src="https://komarev.com/ghpvc/?username=shivamshukl18&label=Profile%20views&color=38BDF8&style=flat" alt="Profile views" />
   </a>
 </p>
 
 ---
 
-### 👋 About Me
+### 🌱 About Me
 - 🔭 Currently exploring **Machine learning models** — figuring out where my strengths shine brightest.
 - 🎓 AIML Summer Intern @ **IIHMF, MNNIT Allahabad**
 - 💡 Interested in machine learning, data analysis, data science and turning ideas into useful applications.
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Web**
 <p align="left">
@@ -32,11 +32,10 @@
 
 **ML / Data & Libraries**
 <p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-16A085?style=for-the-badge" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-016A70?style=for-the-badge" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
@@ -44,28 +43,30 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 📌 Featured Projects
 
-#### 🏠 Bengaluru House Price Prediction
-A machine-learning web app that predicts Bengaluru house prices from property details.
+**🏠 Bengaluru House Price Prediction**
 
-- **Built with:** Python, XGBoost, Streamlit
-- 🌐 **Live App:** [Open the prediction app](https://bengalurupriceprediction.streamlit.app/)
-- 💻 **Source Code:** [View GitHub Repository](https://github.com/shivamshukl18/STASHUP-Bengaluru_house_price_prediction_app-)
+- Machine-learning project to estimate Bengaluru house prices.
+- Built using Python, XGBoost, and Streamlit.
+- Includes a web app for entering property details and viewing a prediction.
+- 🔗 [View Repository](https://github.com/shivamshukl18/STASHUP-Bengaluru_house_price_prediction_app-)
+- 🌐 [Live App](https://bengalurupriceprediction.streamlit.app/)
 
----
+**📄 Research**
 
-### 📄 Research Paper
-Co-authored work titled *“Analysis and Testing of Different Refrigerants in Vapour Compression Refrigeration System”*, presented at **ICAMEET 2026**.
+- Co-authored work titled *“Analysis and Testing of Different Refrigerants in Vapour Compression Refrigeration System”*, presented at ICAMEET 2026 at UCER.
 
 ---
 
 ### 💼 Experience
-**AIML Summer Intern** · **IIHMF, MNNIT Allahabad**
+
+**AIML Summer Intern** @ IIHMF, MNNIT Allahabad
 - AI/ML internship focused on machine-learning fundamentals and practical learning.
 
 ---
@@ -76,27 +77,23 @@ Co-authored work titled *“Analysis and Testing of Different Refrigerants in Va
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamshukl18&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshukl18&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamshukl18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshukl18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamshukl18&theme=tokyonight&hide_border=true&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=shivamshukl18&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 📬 Let's Connect
+### 📫 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/shivam-shukla-35b34b383/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shivamshukla0618@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<div align="center">
-  <sub>Thanks for visiting my profile — feel free to explore my work!</sub>
-</div>
