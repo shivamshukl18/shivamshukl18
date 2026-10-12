@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shivam+%F0%9F%91%8B;Machine+Learning+Enthusiast;Building+ML-powered+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shivam+Shukla+%F0%9F%91%8B;AIML+Student+%7C+ML+Enthusiast;Turning+data+into+useful+ideas" alt="Animated introduction" />
 </div>
 
 <p align="center">
   <a href="https://bengalurupriceprediction.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Project-Bengaluru%20House%20Price%20Predictor-A78BFA?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Project"/>
+    <img src="https://img.shields.io/badge/Explore%20My%20Project-Bengaluru%20House%20Price%20Prediction-38BDF8?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live project"/>
   </a>
 </p>
 
 ---
 
-### 🌱 About Me
+### 👋 About Me
 - 🔭 Currently exploring **Machine learning models** — figuring out where my strengths shine brightest.
 - 🎓 AIML Summer Intern @ **IIHMF, MNNIT Allahabad**
 - 💡 Interested in machine learning, data analysis, data science and turning ideas into useful applications.
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 **Languages & Web**
 <p align="left">
@@ -33,7 +33,7 @@
 **ML / Data & Libraries**
 <p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-016A70?style=for-the-badge" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/XGBoost-16A085?style=for-the-badge" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
@@ -44,31 +44,29 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/DSA-Practicing%20Daily-A78BFA?style=for-the-badge" alt="DSA"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Featured Projects
 
-**🏠 Bengaluru House Price Prediction**
-- Machine-learning project that predicts Bengaluru house prices using property details.
-- Built with **Python, XGBoost, and Streamlit**.
-- 🔗 [Live App](https://bengalurupriceprediction.streamlit.app/)
-- 💻 [GitHub Repository](https://github.com/shivamshukl18/STASHUP-Bengaluru_house_price_prediction_app-)
+#### 🏠 Bengaluru House Price Prediction
+A machine-learning web app that predicts Bengaluru house prices from property details.
 
----
-
-### 💼 Experience
-
-**AIML Summer Intern** @ IIHMF, Motilal Nehru National Institute of Technology (MNNIT), Allahabad
-- Completed a 4-week intensive AI/ML internship with hands-on workshops in Python and machine learning fundamentals.
-- Built end-to-end ML projects covering data preprocessing, feature engineering, model comparison, and deployment.
+- **Built with:** Python, XGBoost, Streamlit
+- 🌐 **Live App:** [Open the prediction app](https://bengalurupriceprediction.streamlit.app/)
+- 💻 **Source Code:** [View GitHub Repository](https://github.com/shivamshukl18/STASHUP-Bengaluru_house_price_prediction_app-)
 
 ---
 
 ### 📄 Research Paper
-**Analysis and Testing of Different Refrigerants in Vapour Compression Refrigeration System**
+Co-authored work titled *“Analysis and Testing of Different Refrigerants in Vapour Compression Refrigeration System”*, presented at **ICAMEET 2026**.
+
+---
+
+### 💼 Experience
+**AIML Summer Intern** · **IIHMF, MNNIT Allahabad**
+- AI/ML internship focused on machine-learning fundamentals and practical learning.
 
 ---
 
@@ -78,19 +76,27 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamshukl18&theme=tokyonight&border=A78BFA&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamshukl18&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshukl18&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivamshukl18&theme=tokyonight&hide_border=true&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📬 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/shivam-shukla-35b34b383/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shivamshukla0618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/shivam-shukla-35b34b383/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shivamshukla0618@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <div align="center">
-  <sub>⭐️ Thanks for stopping by — check out my pinned repos below!</sub>
+  <sub>Thanks for visiting my profile — feel free to explore my work!</sub>
 </div>
