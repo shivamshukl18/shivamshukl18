@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/shivamshukl18">
+  <a href="https://bengalurupriceprediction.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_View_Live_Project-Click_Here-38BDF8?style=for-the-badge" alt="View Live Project"/>
   </a>
 </p>
 
