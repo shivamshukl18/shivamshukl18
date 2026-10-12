@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Web**
+**Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -60,14 +60,15 @@
 
 **📄 Research**
 
-- Co-authored work titled *“Analysis and Testing of Different Refrigerants in Vapour Compression Refrigeration System”*, presented at ICAMEET 2026 at UCER.
+- Co-authored work titled *“Analysis and Testing of Different Refrigerants in Vapour Compression Refrigeration System”*, presented at ICAMEET 2026.
 
 ---
 
 ### 💼 Experience
 
-**AIML Summer Intern** @ IIHMF, MNNIT Allahabad
-- AI/ML internship focused on machine-learning fundamentals and practical learning.
+**AIML Summer Intern** @ Motilal Nehru National Institute of Technology (MNNIT), Allahabad
+- Completed a 4-week intensive AI/ML internship with hands-on workshops in Python and machine learning fundamentals.
+- Built end-to-end ML projects covering data preprocessing, feature engineering, model comparison, and deployment.
 
 ---
 
