@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://bengalurupriceprediction.streamlit.app/">
-    <img src="https://img.shields.io/badge/♟_LIVE_PROJECT-BENGALURU_HOUSE_PRICE_PREDICTOR-9F83F7?style=for-the-badge&labelColor=555555" alt="LIVE PROJECT BENGALURU HOUSE PRICE PREDICTOR"/>
+    <img src="https://img.shields.io/badge/♟_LIVE_PROJECT-BENGALURU_HOUSE_PRICE_PREDICTOR-38BDF8?style=for-the-badge&labelColor=555555" alt="LIVE PROJECT BENGALURU HOUSE PRICE PREDICTOR"/>
   </a>
 </p>
 
