@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/shivamshukl18">
-    <img src="https://komarev.com/ghpvc/?username=shivamshukl18&label=Profile%20views&color=38BDF8&style=flat" alt="Profile views" />
   </a>
 </p>
 
