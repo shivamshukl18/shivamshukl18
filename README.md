@@ -58,7 +58,7 @@
 - 🔗 [View Repository](https://github.com/shivamshukl18/STASHUP-Bengaluru_house_price_prediction_app-)
 - 🌐 [Live App](https://bengalurupriceprediction.streamlit.app/)
 
-**📄 Research**
+**📄 Research Paper**
 
 - Co-authored work titled *“Analysis and Testing of Different Refrigerants in Vapour Compression Refrigeration System”*, presented at ICAMEET 2026.
 
